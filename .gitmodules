@@ -27,7 +27,7 @@
 	url = https://github.com/LitRitt/DSDeltaCore.git
 [submodule "Cores/MelonDSDeltaCore"]
 	path = Cores/MelonDSDeltaCore
-	url = https://github.com/LitRitt/MelonDSDeltaCore.git
+	url = https://github.com/SternXD/MelonDSDeltaCore.git
 [submodule "Cores/GPGXDeltaCore"]
 	path = Cores/GPGXDeltaCore
 	url = https://github.com/LitRitt/GPGXDeltaCore.git
